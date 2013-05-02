@@ -1,3 +1,6 @@
+== DEMO APP DEL LIBRO RUBY ON RAILS
+Sebastian Castiblanco - 1 de mayo del 2013
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
